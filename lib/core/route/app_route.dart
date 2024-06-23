@@ -1,0 +1,5 @@
+
+class AppRoute{
+  AppRoute._();
+
+}
